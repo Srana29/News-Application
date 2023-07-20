@@ -2,7 +2,9 @@
 
 News Application
 
+App Link: https://drive.google.com/file/d/1d83kfyNKvtZGBhaow9kmoP9DvSTR19oJ/view?usp=sharing
 
+Video Demo Link: https://drive.google.com/file/d/1GJRoxKq0SX8CRk0QstHly9wocoxmT6w-/view?usp=sharing
 ## Getting Started
 
 This project is a starting point for a Flutter application.
